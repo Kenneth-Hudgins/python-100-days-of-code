@@ -1,0 +1,7 @@
+2/14/18
+10:51pm
+
+Today I finished the weather balloon project in python, and as a consequence it has completely thrown me off schedual. I got out of class just before 5 and headed to starbucks where I stayed until 9:30pm working on it. 
+Its not that the project it self was hard, its just implimenting certain things in python that I new how to do in concept but not in practice. Had to dig around in several decade old forumns in order to find the answers but even when I found the solution I had to mess with it for awhile before I found a way to impliment it correctly.
+
+Speaking of shcedules; I allocate so much time every day to do certain things so that I can make the most of my time, I literally have a binder full of printed schedules that I made my self for what I am to be doing every hour of the day inorder to prevent gross wastes of time being unproductive. I say this because while I do understand the need for this "100 days of code" exercise, I dont like how it messes up my previously planned weeks.
