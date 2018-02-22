@@ -1,0 +1,14 @@
+2/21/18
+10:51pm
+
+Started work on the final major python project: Signal Analysis.
+I remember doing this project about a year ago in C++, and looking 
+through my old code I kind of feel like im trolling my self because
+although I comented that c++ version of the project I only did the bare 
+minimum. 
+The major obstacles that im facing are the specific formulas I have to 
+extrapolate from the data files, some of which were not only confusing in
+the instructions but also in their coded implimentation. 
+
+By no means is it a major issue, just something I need to research the 
+specifics of.
