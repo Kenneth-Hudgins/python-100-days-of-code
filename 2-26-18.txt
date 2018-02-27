@@ -1,0 +1,12 @@
+2/26/18
+9:43pm
+
+Made great progress on the Signal Analysis project. Finished the conversion
+of both files from scientific notation to decimals functions, as well as the
+mean and variance for both functions. The only thing stopping me from 
+finishing it tonight is that I have stuff I need to get up early for 
+tomorrow.
+
+Had an initial problem with how to properly indent code in functions and
+finding the correct formulas for the requested calculations; but I think at
+this point I have it down.
