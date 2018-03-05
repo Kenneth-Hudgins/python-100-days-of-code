@@ -1,0 +1,6 @@
+3/5/18
+
+Turned in signal project file to github. 
+Managed to start on codezinger and begin working on the provided problems.
+It kind of feels a lot like free-code-camp in the way its layout is built, which is 
+reassuring in its familiarity seeing as now I have a general idea of what to expect.
