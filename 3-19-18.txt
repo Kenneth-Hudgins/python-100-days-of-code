@@ -1,0 +1,7 @@
+3/19/18
+
+Worked through several of the CodeZinger challenges,
+the number/word convert numbers to words part 1 took 
+a little bit of extra thinking and searching for specific 
+techniques but I did it. Had to use a large if/else statement
+but I think a case structure would have been better.
