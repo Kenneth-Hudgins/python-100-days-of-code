@@ -1,0 +1,16 @@
+3/22/18
+1:44am
+
+Just finished the codezinger number converter part 2 problem and
+I have been working on for a large part of the day.
+I attempted it 3 seperate times each from the ground up and my final version is
+surely way more complicated than it could be.
+
+I passed all but 3 of the test cases:
+
+-1 was due to timeout which doesnt happen on my laptop since its not a server trying to optimize runtimes 
+and prevent an infinite loop.The code produces the requested answer on my machine.
+
+-The other 2 failures are due to the requesting wanting the numbers in "lakh" which I beleive is a form of
+indian currency. By our system of measurement my produced answers would be correct.
+
