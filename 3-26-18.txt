@@ -1,0 +1,6 @@
+3/26/18
+
+Completed 3 code zinger challenges. Wasnt on top of my game today,
+made simple mistakes like accidentaly making several infinit loops without
+noticing.
+I know I need to get better and that will only come through practice.
