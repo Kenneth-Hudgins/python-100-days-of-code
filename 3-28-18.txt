@@ -1,0 +1,7 @@
+3/28/18
+
+Completed 4 codezinger challenges. One thing I am trying to do
+is use built in python functions instead of coding it manuall 
+by my self, which is both interesting and frustrating because 
+I already know one way of doing something and now have to trust 
+something else to do it for me. 
