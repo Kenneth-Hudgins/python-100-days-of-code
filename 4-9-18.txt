@@ -1,0 +1,7 @@
+4/9/18
+8:18pm
+
+Just finished the "Fascinating Number" code zinger challenge. Ended up 
+having to work some of it out on the whiteboard in class after everyone 
+left. I dont know if I mentioned it yet, but I stopped useing idle to code 
+python, started useing visual studio a few weeks back. 
